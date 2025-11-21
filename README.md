@@ -1,7 +1,10 @@
-# 🧠 mimir
+# ESPosition
 
-[![License: Unlicense](https://img.shields.io/badge/License-Unlicense-red.svg)](https://opensource.org/licenses/MIT) [![ESP32 Compatible](https://img.shields.io/badge/Module-XIAO_ESP32S3_Sense-brightgreen)](https://www.espressif.com/) [![Arduino IDE](https://img.shields.io/badge/Platform-Arduino_IDE-blue)](https://www.arduino.cc/)
+[![License: Unlicense](https://img.shields.io/badge/License-Unlicense-red.svg)](https://opensource.org/license/Unlicense)
 
-Runtime for PUCK—the wisecracking, wearable wingman!
+This repository collects minimal, verifiable examples for Espressif's ESP32-series microcontrollers.
 
-Soon™
+- `primitives/`: espands a single concept simply
+- `prototypes/`: esplains permutations of concepts
+
+Validated on Arduino IDE; may need modifications on other platforms/IDEs.
